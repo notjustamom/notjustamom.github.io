@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <html>
-<head>
-	<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+	<title>{% if page.title == "Home" %}{{ site.title }}{% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}</title>
 
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,6 +13,9 @@
 	<meta name="msvalidate.01" content="3A006D4EB5AA2EF64FAA993C50FF697C" />
 	<meta name="google-site-verification" content="nCnKGNX9TmqDI3R1QwwdJZ1DLooEZOXbbBYlax5d1cc" />
 	<meta name="yandex-verification" content="4b0bc6aa2c817890" />
+	<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="{% if page.title == "Home" %}{{ site.title }}{% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}" />
 
 	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
