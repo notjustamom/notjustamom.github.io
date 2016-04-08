@@ -1,15 +1,32 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h1 class="entry-title">{{ page.title }}</h1>
+		<div class="entry-date"><a href="{{ page.url | prepend: site.baseurl }}" rel="bookmark">{{ page.date | date: "%b <b>%-d</b>" }}</a></div>
+	</header><!-- .entry-header -->
+	
+	<div class="entry-content">
+		{{ content }}
+	</div><!-- .entry-content -->
+</article><!-- #post-## -->
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+	var disqus_config = function () {
+		this.page.url = '{{ page.url | prepend: site.url}}';
+		this.page.identifier = '{{ page.title }}';
+	};
+	(function() { // DON'T EDIT BELOW THIS LINE
+	var d = document, s = d.createElement('script');
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
+	s.src = '//just-a-mom.disqus.com/embed.js';
 
-</article>
+	s.setAttribute('data-timestamp', +new Date());
+	(d.head || d.body).appendChild(s);
+	})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+{% endif %}

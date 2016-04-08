@@ -1,0 +1,25 @@
+---
+layout: post
+title: Just Another Facebook &ldquo;Friend&rdquo;?
+comments: true
+---
+It's amazing how much society has changed in just the thirty short years I have been alive. When I was a child I used to play outside all day, all summer long. During the school year I would come home, do my homework, do my chores, and then head outside to play, just like all the other children in the neighborhood. We used our imaginations, we played tag, hide & seek, mother-may-I, and red rover. We went on missions to the moon, we visited the wild west, we were teachers, moms, police officers, firemen and Olympic gymnasts, all in our front yard!
+
+<!--more-->
+
+![Just Another Facebook "Friend"?](/images/posts/2015-08-15.jpg){:class="alignright size-medium" style="max-width: 250px;"} As we grew older, instead of "playing" outside we would sit on the curb with our friends and read magazines. We would lay in the grass and listen to our walkmans & boom boxes. We would talk about our latest crush, about school and family and whatever else was going on in our little part of the world.
+
+We met our friends "the old fashioned way" as today’s kids would call it. By meeting other people our age with common interests. We would go to the skating rink to meet other kids who liked to skate. To the skateboard park to meet other kids who liked to skateboard. To church to meet others with like faith, to the bowling ally, the arcade, the park, the CD or video game store, all places where we would strike up a conversation with other people our age and become "friends." We would exchange phone numbers and then call each other. We would actually ***talk*** to each other to learn more about each other.
+
+All of that has changed. Today most of our "friends" are online. We meet a new person, and we exchange social media information. We "follow" people or "friend" people. We scroll through these pages on our phones or computers to keep up with our friends.
+
+I have hundreds of "friends" I keep up with every day. I see pictures of them and their families. I read a quick blurb here and there about what they are doing each day. "Cooking dinner", "on my way to the gym", "I hate traffic", "look at this recipe I just tried", "look what Johnny or Suzy did", "going to bed now" etc… While it is nice to keep in touch with such ease with people I have met throughout the years, these are hardly meaningful connections.
+
+How many of these "friends" could I call in a crisis? How many could I confide my hurts and fears to? How many can truly comfort me in a time of need? I would say none. At least not through social media. The person I can count on, the person I can confide in, that is going to be a close personal friend, regardless of whether we are "friends" on Facebook or not. A person I can actually call and talk with, or sit down and have a conversation with. That is a person I am going to invest my time in. I will seek out time with them, to enjoy their company, to get their advice, to find out what is really going on in their life, as well as share what is going on in mine. No matter how many "friends" we have online, I will bet almost everyone would agree we still need real human interaction with close personal friends.
+
+My question to you as Christians is, which is Jesus to you? Is He just another Facebook friend? A friend in name (I am a Christian). Someone you read quick little blurbs about here and there (verse of the day). Someone whose page you visit and then quickly move on (church on Sunday morning out of habit/ritual and then carry on through your week, not thinking of Him again until the following Sunday)? Do you just "like" a post here and there (Amen!)? Or say a quick "hi" when you have a free second or when you need something ("Lord please bless this day, amen" or "Lord please help me with this test")?
+
+Or do you have a close personal relationship with our Lord & savior? Do you seek out time with Him? (Daily devotionals) Do you yearn to know Him more? (Read & meditate on His word) Do you enjoy His company (praise & worship)? Do you have conversations with Him often (Spend time in prayer)? Do you seek and value His opinion? Are you lead by the spirit, do you want to know His will for your life and live it daily?
+
+I read a quote the other day (yes, on Facebook) that said "if you are too busy for God, you are busier than God ever intended you to be." With technology literally at our fingertips every minute of every day, it is easy to loose the deeper connections. It is easy to get into a habit or routine to the point where a relationship becomes superficial. I encourage you to make sure this doesn’t happen to your friendships, but even more so, that you don’t allow it to happen to your walk with God. Don’t let Jesus become just another Facebook friend.
+						
