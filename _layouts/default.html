@@ -1,21 +1,21 @@
 ﻿<!DOCTYPE html>
 <html>
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
-	<title>{% if page.title == "Home" %}{{ site.title }}{% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}</title>
+	<title>{% if page.title == "Home" %}{{ site.title }}{% else %}{{ page.title }} 	· {{ site.title }}{% endif %}</title>
 
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 	<meta name="twitter:card" content="summary" />
-	<meta name="twitter:title" content="Not Just A Mom -" />
+	<meta name="twitter:title" content="{% if page.title == "Home" %}{{ site.title }}{% else %}{{ page.title }}{% endif %}" />
 	<meta name="alexaVerifyID" content="kseS8a6IOJsSgqshaL677U_yIp0" />
 	<meta name="msvalidate.01" content="3A006D4EB5AA2EF64FAA993C50FF697C" />
 	<meta name="google-site-verification" content="nCnKGNX9TmqDI3R1QwwdJZ1DLooEZOXbbBYlax5d1cc" />
 	<meta name="yandex-verification" content="4b0bc6aa2c817890" />
 	<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="{% if page.title == "Home" %}{{ site.title }}{% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}" />
+	<meta property="og:title" content="{% if page.title == "Home" %}{{ site.title }}{% else %}{{ page.title }}{% endif %}" />
 
 	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Just Another Facebook &ldquo;Friend&rdquo;?
+title: Just Another Facebook “Friend”?
 comments: true
 ---
 It's amazing how much society has changed in just the thirty short years I have been alive. When I was a child I used to play outside all day, all summer long. During the school year I would come home, do my homework, do my chores, and then head outside to play, just like all the other children in the neighborhood. We used our imaginations, we played tag, hide & seek, mother-may-I, and red rover. We went on missions to the moon, we visited the wild west, we were teachers, moms, police officers, firemen and Olympic gymnasts, all in our front yard!
